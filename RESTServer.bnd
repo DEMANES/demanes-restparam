@@ -1,0 +1,12 @@
+Private-Package:  \
+	eu.artemis.demanes.lib.impl.restParameterization.server,\
+	eu.artemis.demanes.lib.impl.restParameterization
+Bundle-Version: 1.0.0
+Bundle-Name: REST Parameterization Server
+Bundle-Description: This bundle contains the Server for remotely parameterizing objects using REST
+Bundle-Category: demanes, middleware, library
+Bundle-Copyright: TNO 2014
+Bundle-Vendor: TNO
+Bundle-ContactAddress: coen.vanleeuwen@tno.nl
+Service-Component:  \
+	*

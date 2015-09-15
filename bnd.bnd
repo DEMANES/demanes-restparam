@@ -1,0 +1,12 @@
+-buildpath:  \
+	biz.aQute.bnd.annotation,\
+	javax.ws.rs-api,\
+	eu.artemis.demanes.demanesCoreInterface;version=latest,\
+	eu.artemis.demanes.demanesLibInterface;version=latest,\
+	eu.artemis.demanes.impl.datatypes;version=latest,\
+	eu.artemis.demanes.impl.parameterization;version=latest
+Bundle-Version: 0.0.0.${tstamp}
+Service-Component:  \
+	*
+-sub:  \
+	*.bnd

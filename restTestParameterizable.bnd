@@ -1,0 +1,11 @@
+Private-Package:  \
+	eu.artemis.demanes.test.lib.impl.parameterization
+Service-Component:  \
+	*
+Bundle-Version: 1.0.0
+Bundle-Name: Parameterization Test Bundle
+Bundle-Description: A bundle containing two classes offering the Parameterizable service in order to run tests
+Bundle-Category: demanes, middleware, test
+Bundle-Copyright: TNO 2014
+Bundle-Vendor: TNO
+Bundle-ContactAddress: coen.vanleeuwen@tno.nl

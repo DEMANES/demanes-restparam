@@ -1,0 +1,11 @@
+Bundle-Version: 1.0.0
+Export-Package:  \
+	eu.artemis.demanes.lib.impl.restParameterization.client
+Bundle-Name: REST Parameterization Client
+Bundle-Description: The bundle containing the client service for REST Parameterization
+Bundle-Category: demanes, middleware, library
+Bundle-Copyright: TNO 2014
+Bundle-Vendor: TNO
+Bundle-ContactAddress: coen.vanleeuwen@tno.nl
+Private-Package:  \
+	eu.artemis.demanes.lib.impl.restParameterization
